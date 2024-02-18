@@ -1,4 +1,4 @@
-# Sign Language Action Recognition with Python
+# Sign Language using Action Recognition with Python
 
 This project aims to detect and recognize sign language gestures using action recognition techniques implemented with Python and LSTM deep learning models.
 
